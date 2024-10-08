@@ -1,0 +1,135 @@
+{
+    "vehicles": [
+        {
+            "id": 0,
+            "virtualDeviceId": "xxxxx1",
+            "virtualDeviceType": "v2g",
+            "cableState": "CABLE_STATE_CONNECTED",
+            "connectionState": "CONNECTED",
+            "mode": "MODE_CHARGE",
+            "regions": [
+                "West Midlands",
+                "UK"
+            ],
+            "totalDevices": 1,
+            "location": [
+                -2.5865485103619994,
+                51.4533696277222
+            ],
+            "power": 0,
+            "batteryHealth": 0,
+            "frequency": 0,
+            "soc": 0,
+            "vehicleMake": "Tesla",
+            "vehicleModel": "Model S",
+            "voltage": 0
+        },
+        {
+            "id": 1,
+            "virtualDeviceId": "xxxxx2",
+            "virtualDeviceType": "v2g",
+            "cableState": "CABLE_STATE_CONNECTED",
+            "connectionState": "CONNECTED",
+            "mode": "MODE_CHARGE",
+            "regions": [
+                "West Midlands",
+                "UK"
+            ],
+            "totalDevices": 1,
+            "location": [
+                -2.58657,
+                51.45337
+            ],
+            "power": 0,
+            "batteryHealth": 0,
+            "frequency": 0,
+            "soc": 0,
+            "vehicleMake": "Tesla",
+            "vehicleModel": "Model Y",
+            "voltage": 0
+        }
+    ],
+    "meters": [
+        {
+            "messageType": "SCM",
+            "id": 0,
+            "type": 8,
+            "tamperPhy": 0,
+            "tamperEnc": 0,
+            "voltage": 228.91,
+            "activePower": 226,
+            "consumption": 1552536,
+            "checksumVal": "#####"
+        },
+        {
+            "messageType": "SCM",
+            "id": 1,
+            "type": 8,
+            "tamperPhy": 0,
+            "tamperEnc": 0,
+            "voltage": 228.63,
+            "activePower": 1453,
+            "consumption": 4632536,
+            "checksumVal": "#####"
+        }
+    ],
+    "transformers": [
+        {
+            "id": 0,
+            "LicenceArea": "South Wales",
+            "GridSupplyPointNumber": 530046,
+            "GridSupplyPointName": "Uskmouth",
+            "BulkSupplyPointNumber": 530023,
+            "BulkSupplyPointName": "Llantarnam",
+            "PrimaryName": "Llantarnam Primary",
+            "PrimaryNumber": 530023,
+            "hvFeeder": "530023/0902",
+            "SubstationType": "Grd Mtd",
+            "SubstationName": "Bettws Mill Newport",
+            "SubstationNumber": 532222,
+            "GridReference": "ST295510905610",
+            "location": [
+                -3.0188,
+                51.6094
+            ],
+            "DayMaxDemand": 113,
+            "NightMaxDemand": 70,
+            "PowerRating": 24,
+            "TransformerHeadroom": "",
+            "LCTCountTotal": 0,
+            "EnergyStorage": 0,
+            "HeatPumps": 0,
+            "evChargers": 15,
+            "TotalGenerationCapacity": 21,
+            "Customers": 17
+        },
+        {
+            "id": 1,
+            "LicenceArea": "South Wales",
+            "GridSupplyPointNumber": 530046,
+            "GridSupplyPointName": "Uskmouth",
+            "BulkSupplyPointNumber": 530023,
+            "BulkSupplyPointName": "Llantarnam",
+            "PrimaryName": "Llantarnam Primary",
+            "PrimaryNumber": 530023,
+            "hvFeeder": "530023/0902",
+            "SubstationType": "Grd Mtd",
+            "SubstationName": "Frome Walk Bettws Newport",
+            "SubstationNumber": 532206,
+            "GridReference": "ST284370906620",
+            "location": [
+                -3.0349,
+                51.6102
+            ],
+            "DayMaxDemand": 167,
+            "NightMaxDemand": 78,
+            "PowerRating": 50,
+            "EnergyStorage": 0,
+            "HeatPumps": 0,
+            "evChargers": 10,
+            "TotalLCTCapacity": 0,
+            "TotalGenerationCapacity": 31,
+            "Customers": 47
+        }
+    ]
+}

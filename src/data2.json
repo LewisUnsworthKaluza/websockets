@@ -1,0 +1,218 @@
+{
+    "xxxxx1": {
+        "id": 0,
+        "virtualDeviceId": "xxxxx1",
+        "virtualDeviceType": "v2g",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.5865485103619994,
+            51.4533696277222
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "Tesla",
+        "vehicleModel": "Model S",
+        "voltage": 0
+    },
+    "xxxxx2": {
+        "id": 1,
+        "virtualDeviceId": "xxxxx2",
+        "virtualDeviceType": "v2g",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "Tesla",
+        "vehicleModel": "Model Y",
+        "voltage": 0
+    },
+    "xxxxx3": {
+        "id": 2,
+        "virtualDeviceId": "xxxxx3",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx4": {
+        "id": 3,
+        "virtualDeviceId": "xxxxx4",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx5": {
+        "id": 4,
+        "virtualDeviceId": "xxxxx5",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx6": {
+        "id": 5,
+        "virtualDeviceId": "xxxxx6",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx7": {
+        "id": 6,
+        "virtualDeviceId": "xxxxx7",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx8": {
+        "id": 7,
+        "virtualDeviceId": "xxxxx8",
+        "virtualDeviceType": "meter",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    },
+    "xxxxx9": {
+        "id": 8,
+        "virtualDeviceId": "xxxxx9",
+        "virtualDeviceType": "substation",
+        "cableState": "CABLE_STATE_CONNECTED",
+        "connectionState": "CONNECTED",
+        "mode": "MODE_CHARGE",
+        "regions": [
+            "West Midlands",
+            "UK"
+        ],
+        "totalDevices": 1,
+        "location": [
+            -2.58657,
+            51.45337
+        ],
+        "power": 0,
+        "batteryHealth": 0,
+        "frequency": 0,
+        "soc": 0,
+        "vehicleMake": "NA",
+        "vehicleModel": "NA",
+        "voltage": 0
+    }
+}
